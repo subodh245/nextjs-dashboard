@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+THINGS I LEARN 
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+CHAPTER 1 - CSS STYLING = I learn about css styling there are 3 ways to style one is css module , tailwind css and sass and i have did some quizes on the nextjs website 
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+CHAPTER 2 - OPTIMIZING FONTS ANS IMAGES = I have added a primary font in it then I added the secondary font without looking the soloution till i got stucked in error then i looked into solutions
