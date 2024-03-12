@@ -11,5 +11,7 @@ CHAPTER 4 - NAVIGATING BETWEEN PAGES = I learned that we should not use anchor t
 CHAPTER 5 - SETTING UP YOUR DATABASE = I have deployed this app to vercel and  I have created postgres database and connected it to the app 
 
 ![Screenshot 2024-03-11 231208](https://github.com/subodh245/nextjs-dashboard/assets/118099441/1fe15737-c5ee-48e4-8bfe-2d22a39539e8)
+![Screenshot 2024-03-12 171710](https://github.com/subodh245/nextjs-dashboard/assets/118099441/7bff161b-8e13-4fd5-a2dc-08d04f089ca3)
+
 
 
