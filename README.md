@@ -17,6 +17,9 @@ CHAPTER 8 - STREAMING = I have added loading skeleton and post the picture of it
 
 ![Screenshot 2024-03-11 231208](https://github.com/subodh245/nextjs-dashboard/assets/118099441/1fe15737-c5ee-48e4-8bfe-2d22a39539e8)
 ![Screenshot 2024-03-12 171710](https://github.com/subodh245/nextjs-dashboard/assets/118099441/7bff161b-8e13-4fd5-a2dc-08d04f089ca3)
+![Screenshot 2024-03-13 185622](https://github.com/subodh245/nextjs-dashboard/assets/118099441/ea59a87d-363d-4114-bdbe-911be8b6dd36)
+![Screenshot 2024-03-13 190618](https://github.com/subodh245/nextjs-dashboard/assets/118099441/55370d3c-7504-4c6a-94cd-3f71b6f769e2)
+
 
 
 
