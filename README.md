@@ -13,7 +13,11 @@ CHAPTER 6 - FETCHING DATA = I have fetch data of revenue genrated in dashboard c
 
 CHAPTER 7 - STATIC AND DYNAMIC RENDERING = I came to know that static rendering is not good for dashbord but dynamic rendering is and i have simulate slow data fetch
 
-CHAPTER 8 - STREAMING = I have added loading skeleton and post the picture of it below 
+CHAPTER 8 - STREAMING = I have added loading skeleton and post the picture of it below then I added long time loading sekeleton to the sigle componenet and then I group all skeletons components and I learn about when I should place suspence boundries 
+
+CHAPTER 9 - PARTIAL PRERENDERING = I learn about in partial prerendring we can add some components to static rendring and some to dynamic rendering with next.js
+
+CHAPTER 10 - ADDING SEARCH AND PAGINATION = I have did this before with zustand (its not completed yet)
 
 ![Screenshot 2024-03-11 231208](https://github.com/subodh245/nextjs-dashboard/assets/118099441/1fe15737-c5ee-48e4-8bfe-2d22a39539e8)
 ![Screenshot 2024-03-12 171710](https://github.com/subodh245/nextjs-dashboard/assets/118099441/7bff161b-8e13-4fd5-a2dc-08d04f089ca3)
