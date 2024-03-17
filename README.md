@@ -17,7 +17,7 @@ CHAPTER 8 - STREAMING = I have added loading skeleton and post the picture of it
 
 CHAPTER 9 - PARTIAL PRERENDERING = I learn about in partial prerendring we can add some components to static rendring and some to dynamic rendering with next.js
 
-CHAPTER 10 - ADDING SEARCH AND PAGINATION = I have did this before with zustand (its not completed yet)
+CHAPTER 10 - ADDING SEARCH AND PAGINATION = I have did this before with zustand , I have taken user input then for updating search params i have used useSearchParams form next.js it was printing search term in url then I have added pagination 
 
 ![Screenshot 2024-03-11 231208](https://github.com/subodh245/nextjs-dashboard/assets/118099441/1fe15737-c5ee-48e4-8bfe-2d22a39539e8)
 ![Screenshot 2024-03-12 171710](https://github.com/subodh245/nextjs-dashboard/assets/118099441/7bff161b-8e13-4fd5-a2dc-08d04f089ca3)
