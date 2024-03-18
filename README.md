@@ -19,6 +19,8 @@ CHAPTER 9 - PARTIAL PRERENDERING = I learn about in partial prerendring we can a
 
 CHAPTER 10 - ADDING SEARCH AND PAGINATION = I have did this before with zustand , I have taken user input then for updating search params i have used useSearchParams form next.js it was printing search term in url then I have added pagination 
 
+CHAPTER 11 - MUTATING DATA = I have learned about server action in react it can be invoke from client server (its not completed yet)
+
 ![Screenshot 2024-03-17 170827](https://github.com/subodh245/nextjs-dashboard/assets/118099441/5d9c3b12-08de-4534-885c-bd0e43f522ff)
 ![Screenshot 2024-03-11 231208](https://github.com/subodh245/nextjs-dashboard/assets/118099441/1fe15737-c5ee-48e4-8bfe-2d22a39539e8)
 ![Screenshot 2024-03-12 171710](https://github.com/subodh245/nextjs-dashboard/assets/118099441/7bff161b-8e13-4fd5-a2dc-08d04f089ca3)
