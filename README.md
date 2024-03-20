@@ -19,7 +19,7 @@ CHAPTER 9 - PARTIAL PRERENDERING = I learn about in partial prerendring we can a
 
 CHAPTER 10 - ADDING SEARCH AND PAGINATION = I have did this before with zustand , I have taken user input then for updating search params i have used useSearchParams form next.js it was printing search term in url then I have added pagination 
 
-CHAPTER 11 - MUTATING DATA = I have learned about server action in react it can be invoke from client server (its not completed yet)
+CHAPTER 11 - MUTATING DATA = I have learned about server action in react it can be invoke from client server then I insrted data into data base  by writing sql query then i used redirect from next.js to redirect user to the invoice page then I learn to update the invoice in database by there id then i made a function for updating invoice
 
 ![Screenshot 2024-03-19 001229](https://github.com/subodh245/nextjs-dashboard/assets/118099441/603eb2d3-5179-4b8e-80b6-157537d37dbb)
 ![Screenshot 2024-03-17 170827](https://github.com/subodh245/nextjs-dashboard/assets/118099441/5d9c3b12-08de-4534-885c-bd0e43f522ff)
