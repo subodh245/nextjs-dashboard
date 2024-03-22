@@ -17,10 +17,17 @@ CHAPTER 8 - STREAMING = I have added loading skeleton and post the picture of it
 
 CHAPTER 9 - PARTIAL PRERENDERING = I learn about in partial prerendring we can add some components to static rendring and some to dynamic rendering with next.js
 
-CHAPTER 10 - ADDING SEARCH AND PAGINATION = I have did this before with zustand , I have taken user input then for updating search params i have used useSearchParams form next.js it was printing search term in url then I have added pagination 
+CHAPTER 10 - ADDING SEARCH AND PAGINATION = I have did this before with zustand , I have taken user input then for updating search params i have used useSearchParams form next.js it was printing search term in url then I have added pagination using URL params and I have used useRouter hook for implementing pagination 
 
-CHAPTER 11 - MUTATING DATA = I have learned about server action in react it can be invoke from client server then I insrted data into data base  by writing sql query then i used redirect from next.js to redirect user to the invoice page then I learn to update the invoice in database by there id then i made a function for updating invoice
+CHAPTER 11 - MUTATING DATA = I have learned about server action in react it can be invoke from client server then I insrted data into data base  by writing sql query then i used redirect from next.js to redirect user to the invoice page then I learn to update the invoice in database by there id then i made a function for updating invoice then i learn to make function for deleting invoice 
 
+CHAPTER 12 - HANDLING ERROR = I have added the try/catch to server action with the help of next.js website then i made a seperate file to handele all the errors then I have added (404 Not Found) page 
+
+CHAPTER 13 - IMPROVING ACCESSIVBILITY = I learn about the lint that is used for catching the issue (this is not completed yet)
+
+
+![Screenshot 2024-03-23 004734](https://github.com/subodh245/nextjs-dashboard/assets/118099441/fe1e6b90-3050-423b-a8fb-2a1b6a9a4f19)
+![Screenshot 2024-03-23 013713](https://github.com/subodh245/nextjs-dashboard/assets/118099441/dc055e49-d604-44ba-9f43-63ebc84728fb)
 ![Screenshot 2024-03-19 001229](https://github.com/subodh245/nextjs-dashboard/assets/118099441/603eb2d3-5179-4b8e-80b6-157537d37dbb)
 ![Screenshot 2024-03-17 170827](https://github.com/subodh245/nextjs-dashboard/assets/118099441/5d9c3b12-08de-4534-885c-bd0e43f522ff)
 ![Screenshot 2024-03-11 231208](https://github.com/subodh245/nextjs-dashboard/assets/118099441/1fe15737-c5ee-48e4-8bfe-2d22a39539e8)
