@@ -31,7 +31,10 @@ CHAPTER 14 - IMPROVING ACCESSIVBILITY =  I learn about the lint that is used for
 
 CHAPTER 15 - Adding authentication = (In Progress)
 
-
+PHOTOS
+![Screenshot 2024-04-02 000620](https://github.com/subodh245/nextjs-dashboard/assets/118099441/777d0684-d96f-4a10-849e-d3e15794e205)
+![Screenshot 2024-04-01 192710](https://github.com/subodh245/nextjs-dashboard/assets/118099441/b1824f49-2541-4313-8e7c-fc043ce6a6ae)
+![Screenshot 2024-04-01 192335](https://github.com/subodh245/nextjs-dashboard/assets/118099441/98ec0002-f55d-423b-a03a-a3aac79e6196)
 ![Screenshot 2024-03-23 004734](https://github.com/subodh245/nextjs-dashboard/assets/118099441/fe1e6b90-3050-423b-a8fb-2a1b6a9a4f19)
 ![Screenshot 2024-03-23 013713](https://github.com/subodh245/nextjs-dashboard/assets/118099441/dc055e49-d604-44ba-9f43-63ebc84728fb)
 ![Screenshot 2024-03-19 001229](https://github.com/subodh245/nextjs-dashboard/assets/118099441/603eb2d3-5179-4b8e-80b6-157537d37dbb)
