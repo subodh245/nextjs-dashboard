@@ -29,7 +29,7 @@ CHAPTER 13 - HANDLING ERROR = I have added the try/catch to server action with t
 
 CHAPTER 14 - IMPROVING ACCESSIVBILITY =  I learn about the lint that is used for catching the issue then I have added the acsseciblity function that is we  can access things with tab button then I learn about the aria lebels that is used for handling the error I have posted some of photos of it
 
-CHAPTER 15 - Adding authentication = (In Progress)
+CHAPTER 15 - Adding authentication = I have learn about Authentication = it verifys identitiy of user and Authorization = verfys the part user can access then I have installes the openssl for genreating the secrete key for appliction 
 
 PHOTOS
 
